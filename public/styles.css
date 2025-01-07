@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    padding: 15px;
+}
+
+li{
+    /* border: 2px solid greenyellow; */
+    background-color: antiquewhite;
+    padding: 10px;
+    font-family: Verdana, sans-serif;
+    border-radius: 15px;
+    list-style: none;
+    margin: 2px;
+}
+.heading{
+    color: blue;
+}
+.car-images{
+    width: 200px;
+    height: 200px;
+}
